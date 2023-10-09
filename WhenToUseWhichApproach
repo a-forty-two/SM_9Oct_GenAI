@@ -1,0 +1,14 @@
+1. I know ML and I know how to code and I know business 
+                1. TF/libraries/Spark 
+                2. AutoML-> 
+                            1. AutoML -> tells me model explainability -> how was model built?
+                                        1. Hyperparameter tuning 
+                                                    1. HP-> factors that developers control -> how long to train? LR?
+2. I know ML but I don’t know to code and I know business 
+            1. AutoML on cloud-> No CODE
+            2. Machine Learning pipelines-> FLOWCHART-> at least outline of ML process 
+                            1. Microsoft Azure (No Code ML Pipelines)
+3. I only know code
+                1. Pre-build AI APIs-> Vision, NLP
+                2. AutoML -> dataset + machines= distributed FOR loop-> one model will outperform all the others (Scikit-learn)
+                3. KubeFlow (ML on Kubernetes) / MLFlow (Kubeflow on databricks/spark/clouds)-> need to know kubernetes/containers
